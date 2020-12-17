@@ -1,0 +1,13 @@
+C:\Users\Lex\source\repos\poligons\poligons\obj\Debug\netcoreapp3.1\poligons.csprojAssemblyReference.cache
+C:\Users\Lex\source\repos\poligons\poligons\obj\Debug\netcoreapp3.1\poligons.AssemblyInfoInputs.cache
+C:\Users\Lex\source\repos\poligons\poligons\obj\Debug\netcoreapp3.1\poligons.AssemblyInfo.cs
+C:\Users\Lex\source\repos\poligons\poligons\obj\Debug\netcoreapp3.1\poligons.csproj.CoreCompileInputs.cache
+C:\Users\Lex\source\repos\poligons\poligons\bin\Debug\netcoreapp3.1\poligons.exe
+C:\Users\Lex\source\repos\poligons\poligons\bin\Debug\netcoreapp3.1\poligons.deps.json
+C:\Users\Lex\source\repos\poligons\poligons\bin\Debug\netcoreapp3.1\poligons.runtimeconfig.json
+C:\Users\Lex\source\repos\poligons\poligons\bin\Debug\netcoreapp3.1\poligons.runtimeconfig.dev.json
+C:\Users\Lex\source\repos\poligons\poligons\bin\Debug\netcoreapp3.1\poligons.dll
+C:\Users\Lex\source\repos\poligons\poligons\bin\Debug\netcoreapp3.1\poligons.pdb
+C:\Users\Lex\source\repos\poligons\poligons\obj\Debug\netcoreapp3.1\poligons.dll
+C:\Users\Lex\source\repos\poligons\poligons\obj\Debug\netcoreapp3.1\poligons.pdb
+C:\Users\Lex\source\repos\poligons\poligons\obj\Debug\netcoreapp3.1\poligons.genruntimeconfig.cache
