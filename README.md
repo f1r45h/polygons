@@ -3,4 +3,5 @@
 
  at first you must enter the coordinates of its points, and then you will get the result: convex / not convex
  
- sorry for wrong names
+ PS: sorry for wrong names
+     only russian is supported
